@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DukiMy
 - 👀 I’m interested in computer programming, maths, 3d printing, cnc machining, 3d printing, philosophy, economics and more.
 - 🌱 I’m currently learning computer programming
-- 💞️ I’m looking to collaborate on any project in need of a junior assistant.
+- 💞️ I’m looking to collaborate on any project in need of a junior programmer.
 - 📫 How to reach me: durim.miziraj@gmail.com
 
 <!---
